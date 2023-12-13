@@ -1,3 +1,13 @@
+<h1>tsukuyomi</h1>
+<table>
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/phhsu0508/finalproject/main/tsukuyomi.gif">
+                </td>        
+ <td>
+
+```swift
+
 import SwiftUI
 import AVFoundation
 
@@ -254,3 +264,9 @@ func generateRandomEmojiArray() -> [String] {
     }
     return array
 }
+
+
+```
+</td>
+</tr>
+</table>
