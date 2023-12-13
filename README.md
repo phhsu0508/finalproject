@@ -6,5 +6,6 @@
 <div  align="center">
 
   <img src="https://raw.githubusercontent.com/phhsu0508/finalproject/main/demo.jpg" width = "50%" height = "50%">
-                
+  <img src="https://raw.githubusercontent.com/phhsu0508/finalproject/main/tsukuyomi.gif" width = "50%" height = "50%">
 </div>
+
